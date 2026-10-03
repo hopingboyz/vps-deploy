@@ -1,4 +1,4 @@
-git clone https://github.com/hopingboyz/vps-deploy
+`git clone https://github.com/hopingboyz/vps-deploy`
 
 cd vps-deploy
 
